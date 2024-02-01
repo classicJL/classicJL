@@ -15,7 +15,7 @@
   <a href="mailto:hyeonjun217.lee@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://legendary-concrete-bf7.notion.site/2ebdbce6bb5d44ca9178281d45a95cd1?pvs=4">
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000">
   </a>
     
